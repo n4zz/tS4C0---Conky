@@ -47,8 +47,8 @@ Conky project [Homepage](https://github.com/brndnmtthws/conky/wiki)
 ----      
       
 Desktop version     
-https://github.com/n4zz/tS4C0---Conky/blob/main/tS4C0_desktop/tS4C0_dt.png      
-<img src="/n4zz/tS4C0---Conky/tS4C0_desktop/tS4C0_dt.png" alt="Screenshot_tS4C0---Conky_for_desktop" width="600">      
+      
+<img src="/tS4C0---Conky/tS4C0_desktop/tS4C0_dt.png" alt="Screenshot_tS4C0---Conky_for_desktop" width="600">      
 
 Laptop version    
 https://github.com/n4zz/tS4C0---Conky/blob/main/tS4C0_laptop/tS4C0_ntb.png       
