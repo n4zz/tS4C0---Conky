@@ -25,7 +25,7 @@ Two versions of Conky.
    * Storage
    * Top 5 processes
    * Calendar
-   * Weather
+   * Weather      
    (I don't use GPU information in the laptop version because my laptop doesn't have a dedicated graphics card).
 
 ----     
