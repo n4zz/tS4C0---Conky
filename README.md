@@ -51,5 +51,5 @@ Desktop version
 <img src="https://github.com/n4zz/tS4C0---Conky/blob/main/tS4C0_desktop/tS4C0_dt.png" width="600">      
 
 Laptop version    
-https://github.com/n4zz/tS4C0---Conky/blob/main/tS4C0_laptop/tS4C0_ntb.png       
-<img src=""width="600">  
+       
+<img src="https://github.com/n4zz/tS4C0---Conky/blob/main/tS4C0_laptop/tS4C0_ntb.png" width="600">  
